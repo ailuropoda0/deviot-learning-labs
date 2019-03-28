@@ -9,7 +9,7 @@
       {"title" : "IoT"}
     ],
     "files": [
-      {"title": "Introduction", "file": "1-intro.md"},
+      {"title": "Introduction", "file": "1-Intro.md"},
       {"title": "Connect by scanning a QR code", "file": "2-qrcode.md"},
       {"title": "Manually connect", "file": "3-manual.md"},
       {"title": "Build your IoT program using your mobile device", "file": "4-build.md"}
