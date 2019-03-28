@@ -10,7 +10,7 @@
   ],
   "files": [
     {"title": "Introduction", "file": "1-intro.md"},
-    {"title": "Go through DevIoT", "file": "2-go-through.md"},
+    {"title": "Go through DevIoT", "file": "2-go-through-deviot.md"},
     {"title": "Create a new project", "file": "3-create-project.md"},
     {"title": "Build your first Hello World program", "file": "4-build-program.md"}
   ],
