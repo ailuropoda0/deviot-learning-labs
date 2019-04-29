@@ -1,6 +1,6 @@
 {
-    "labId": "intro-deviot",
-    "title": "Connect Mobile device to DevIoT",
+    "labId": "mobile-deviot",
+    "title": "DevIoT: Part 2 - Connect Mobile devices",
     "slug": "Getting started with DevIoT",
     "time": "10",
     "tags": [
@@ -9,15 +9,11 @@
     ],
     "files": [
       {"title": "Introduction", "file": "1-intro.md"},
-      {"title": "Connect by scanning a QR code", "file": "2-qrcode.md"},
-      {"title": "Manually connect", "file": "3-manual.md"},
-      {"title": "Build your IoT program using your mobile device", "file": "4-build.md"}
-    ],
-    "related": [
-      {
-        "labId": "",
-        "title": ""
-      }
+      {"title": "iOS", "file": "2-ios.md"},
+      {"title": "Android", "file": "3-android.md"},
+      {"title": "Connect by scanning a QR code", "file": "4-qrcode.md"},
+      {"title": "Manually connect", "file": "5-manual.md"},
+      {"title": "Build your IoT program", "file": "6-build.md"}
     ],
     "authors": [
       {"name": "Changjun Lim", "email": "chanlim@cisco.com"}

@@ -1,6 +1,6 @@
 {
   "labId": "intro-deviot",
-  "title": "Introduction to DevIoT",
+  "title": "DevIoT: Part 1 - Introduction",
   "slug": "Getting started with DevIoT",
   "time": "15",
   "tags": [
@@ -16,7 +16,7 @@
   "related": [
     {
       "labId": "mobile-deviot",
-      "title": "Connect Mobile devices to DevIoT"
+      "title": "DevIoT: Part 2 - Connect Mobile devices"
     }
   ],
   "authors": [
