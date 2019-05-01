@@ -1,0 +1,28 @@
+{
+    "labId": "sdk-deviot",
+    "title": "DevIoT: Part 3 - Build a gateway using SDK",
+    "slug": "Getting started with DevIoT SDK",
+    "time": "25",
+    "tags": [
+      {"title" : "DevIoT"},
+      {"title" : "IoT"}
+    ],
+    "files": [
+      {"title": "Introduction", "file": "1-intro.md"},
+      {"title": "Run a sample code", "file": "2-sample.md"},
+      {"title": "Look into SDK", "file": "3-sdk.md"},
+      {"title": "Build gateways using SDK", "file": "4-gateway.md"},
+      {"title": "Make an IoT program", "file": "5-program.md"}
+    ],
+    "related": [
+      {
+        "labId": "",
+        "title": ""
+      }
+    ],
+    "authors": [
+      {"name": "Changjun Lim", "email": "chanlim@cisco.com"}
+    ],
+    "active": true
+}
+  

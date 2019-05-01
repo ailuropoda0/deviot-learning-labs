@@ -15,6 +15,12 @@
       {"title": "Manually connect", "file": "5-manual.md"},
       {"title": "Build your IoT program", "file": "6-build.md"}
     ],
+    "related": [
+      {
+        "labId": "sdk-deviot",
+        "title": "DevIoT: Part 3 - Build a gateway using SDK"
+      }
+    ],
     "authors": [
       {"name": "Changjun Lim", "email": "chanlim@cisco.com"}
     ],
