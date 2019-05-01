@@ -2,9 +2,9 @@
 
 Because DevIoT app is not on public app stores like "Google Play Store", the installation must be allowed in settings. The pictures are captured on Android 7.0 *Nougat*. Your mileage may vary.
 
-### 1. Download DevIoT Android app on [http://mobile.ciscodeviot.com/](http://mobile.ciscodeviot.com/)
+### 1. Download DevIoT Android app on [https://deviot.cisco.com/mobile/](https://deviot.cisco.com/mobile/)
 
-You can download the apk file (The file format for Android app installation) of DevIoT app by clicking the 'Download' button on [http://mobile.ciscodeviot.com/](http://mobile.ciscodeviot.com/). You may need to allow the download of the apk file. After downloading and open the apk file, you will see the warning message that phone blocks the installation of the app.
+You can download the apk file (The file format for Android app installation) of DevIoT app by clicking the 'Download' button on [https://deviot.cisco.com/mobile/](https://deviot.cisco.com/mobile/). You may need to allow the download of the apk file. After downloading and open the apk file, you will see the warning message that phone blocks the installation of the app.
 
 ![Figure](assets/images/3-1-download.png)
 

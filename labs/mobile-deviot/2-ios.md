@@ -1,8 +1,8 @@
 # Install DevIoT app on an iOS device
 Because DevIoT app is not on 'App Store'. is is necessary to change a setting to install the app.
 
-### 1. Download DevIoT iOS app on [http://mobile.ciscodeviot.com/](http://mobile.ciscodeviot.com/)
-As you click the 'Download' button on [http://mobile.ciscodeviot.com/](http://mobile.ciscodeviot.com/), the install message will be popped up. If you click the 'Install' button on the popup message, the app will be installed *automatically*. 
+### 1. Download DevIoT iOS app on [https://deviot.cisco.com/mobile/](https://deviot.cisco.com/mobile/)
+As you click the 'Download' button on [https://deviot.cisco.com/mobile/](https://deviot.cisco.com/mobile/), the install message will be popped up. If you click the 'Install' button on the popup message, the app will be installed *automatically*. 
 
 ![Figure](assets/images/2-1-install.png)
 
