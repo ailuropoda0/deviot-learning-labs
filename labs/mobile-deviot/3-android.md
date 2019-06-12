@@ -24,7 +24,7 @@ As you see, there are two buttons connecting to DevIoT on home: '**SCAN QR CODE*
 
 '**SCAN QR CODE**' button is the way to connect by scanning a QR code. It is explained on the next page '**Connect by scanning a QR code**'. '**LOGIN**' button is the way to connect by inputting data manually, which is described on the third page '**Manually connect**'.
 
-### * Setting
+#### * Notification Setting
 In order to use **vibration** in DevIoT, you need to turn on vibration for notifications if it is muted. Go to **Settings > Sounds and vibration > Vibration intensity > Notifications** and increase vibration intensity.
 
 ![Figure](assets/images/3-4-setting.png)

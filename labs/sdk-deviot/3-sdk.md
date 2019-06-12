@@ -42,7 +42,9 @@ Thing(id, name, kind=None)
 ```
 Thing class has three instance variables: ***id***, ***name***, ***kind***. *id* is a unique ID of a Thing instance. *name* is a display name of an instance shown on DevIoT. *kind* is the kind of an instacne, which is for its icon.
 
-Thing instance can be either an input component or an output component. An input component is a component getting variables like a light sensor. It takes variables(properties) by using the method *add_property*. An output component is a component doing some actions like LED. Actions are registered by using *add_action* method and defining methods.
+An input component is a component getting variables like a light sensor. It takes variables(properties) by using the method *add_property*. An output component is a component doing some actions like LED. Actions are registered by using *add_action* method and defining methods.
+
+A Thing instance can have both properties and actions. But the instance can act as either an input component or an output component in each project.
 
 ### Action
 ```

@@ -29,9 +29,9 @@ With these 2 rules, you can control the flashlight of your phone by shaking your
 ### 3. Activate the project and Test it
 - Don't forget to activate your project by clicking the switch on the sidebar.
 
-The following video is the demo for this program. As the phone is being shaken, the flashlight of the phone is turned on.
+The following video is the demo for this program. As the phone is being shaken, the flashlight of the phone is turned on. And as I stop shaking, the flashlight is turned off.
 
 ![Figure](assets/images/6-3-demo.gif)
 
 ## Conclusion
-Now you can connect your smartphone to DevIoT, and build your IoT program. You can connect other devices, and build more complicated program.
+Now you can connect your smartphone to DevIoT, and build your IoT program using the phone. If you connect other devices, then you are able to build more complicated program.
