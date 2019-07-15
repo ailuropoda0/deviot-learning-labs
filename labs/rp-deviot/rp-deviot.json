@@ -1,0 +1,28 @@
+{
+    "labId": "rp-deviot",
+    "title": "DevIoT: Part 4 - Connect Raspberry Pi",
+    "slug": "",
+    "time": "30",
+    "tags": [
+      {"title" : "DevIoT"},
+      {"title" : "IoT"}
+    ],
+    "files": [
+      {"title": "Introduction", "file": "1-intro.md"},
+      {"title": "Set up Raspberry Pi", "file": "2-load.md"},
+      {"title": "Install GrovePi SDK and DevIoT SDK on Raspberry Pi", "file": "3-install.md"},
+      {"title": "Connect Raspberry Pi to DevIoT", "file": "4-connect.md"},
+      {"title": "Make an IoT program using Raspberry Pi", "file": "5-program.md"}
+    ],
+    "related": [
+      {
+        "labId": "sdk-deviot",
+        "title": "DevIoT: Part 3 - Build a gateway using SDK"
+      }
+    ],
+    "authors": [
+      {"name": "Changjun Lim", "email": "chanlim@cisco.com"}
+    ],
+    "active": true
+}
+  
