@@ -28,7 +28,7 @@ Every component can be grouped into 'input' and 'output'. 'Input' is the compone
 * **Webex Teams Trigger** (Input): It detects the message to DevIoT bot with the user-specific token.
 
 ### TOOL
-* **Button** (Input): It works as a virtual button. It sends a value(0/1) depending on its state(released/pressed).
+* **Button** (Input): It works as a virtual button. It sends a value(0/1) depending on its state (released/pressed).
 * **Timer** (Input): It sends 1 on every specified time.
 * **Traffic Light** (Output): It works as a virtual traffic light. It has three kinds of light: green, yellow, red.
 * **Chart** (Output): It makes a graph of connected data from input components.

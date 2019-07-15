@@ -1,4 +1,4 @@
-# Introduction to DevIoT
+# Connect Mobile devices to DevIoT
 
 Completion time: 10 mins
 
